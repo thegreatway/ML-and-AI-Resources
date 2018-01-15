@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+.DS_*
+*.npy
+catdog/
+*.npy
+catdog/
+*.zip
+*.tar
+data/
+*.gz
+*.h5
+*.json
+*.pkl
+*.csv
