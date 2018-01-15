@@ -1,0 +1,30 @@
+# Binary files
+*.pickle
+*.zip
+*.tar
+*.gz
+
+checkpoints/
+
+# Python stuff
+*.pyc
+__pycache__/
+
+# Pycharm stuff
+.idea/
+
+# Texmaker stuff
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.aux
+*.bbl
+*.blg
+*.vrb
+src/*.aux
+
+# UCL
+slides/reinforcement_learning/UCL
